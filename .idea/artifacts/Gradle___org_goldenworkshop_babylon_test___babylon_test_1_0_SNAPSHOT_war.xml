@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : org.goldenworkshop:babylon-test : babylon-test-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/babylon-test</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="babylon-test-1.0-SNAPSHOT.war">
+      <element id="javaee-facet-resources" facet="babylon-test/web/Web Gradle : babylon-test-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="babylon-test" />
+          <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/babylon-test/exploded/babylon-test-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

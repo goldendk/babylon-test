@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TypeScriptCompiler">
+    <option name="isCompilerEnabled" value="true" />
+    <option name="typeScriptCompilerParams" value="-p D:\sandbox\gittemp\babylon-test\src\main\typescript --module amd -outDir D:\sandbox\gittemp\babylon-test\src\main\webapp" />
+    <option name="outDirectory" value="D:\sandbox\gittemp\babylon-test\src\main\webapp\$Sourcepath$" />
+    <option name="useConfig" value="true" />
+  </component>
+</project>

@@ -10,6 +10,7 @@
         <element id="directory" name="classes">
           <element id="module-output" name="babylon-test" />
           <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+          <element id="library" level="project" name="babylon-beta" />
         </element>
       </element>
       <element id="directory" name="META-INF">

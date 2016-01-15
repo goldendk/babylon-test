@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="babylon-beta" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/main/webapp/resources/js/babylon.max.js" />
+        <item url="file://$PROJECT_DIR$/src/main/typescript/_declare/babylon.d.ts" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/main/webapp/resources/js/babylon.max.js" />
+      <root url="file://$PROJECT_DIR$/src/main/typescript/_declare/babylon.d.ts" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

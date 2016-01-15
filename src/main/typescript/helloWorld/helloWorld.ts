@@ -1,12 +1,12 @@
-/// <reference path="./_declare/babylon.2.2.d.ts" />
 
 window.addEventListener('DOMContentLoaded', function(){
     // get the canvas DOM element
     var canvas:HTMLCanvasElement  = <HTMLCanvasElement>document.getElementById('renderCanvas');
 
+
     // load the 3D engine
     var engine = new BABYLON.Engine(canvas, true);
-    
+
     // createScene function that creates and return the scene
     var createScene = function(){
         // create a basic BJS Scene object
